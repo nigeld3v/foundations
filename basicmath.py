@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # basicmath.py
-# This document is to show how we write basic calculator functions
-# in Python.
+# This document is for beginners. It shows how we write basic calculator functions
+# in Python. It's quite easy to use python as a basic calculator!
 
 #Add 3 and 3
 print(3 + 3)
