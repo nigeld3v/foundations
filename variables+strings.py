@@ -5,7 +5,7 @@
 This is a beginner Python tutorial that shows how to use variables with 
 strings of text. First I will show ways to print messages that use variables
 alongside strings to complete messages. Then I will show how we can embed
-variables in strings using "format"
+variables in strings using the "format" activator
 '''
 
 # First, let's create our variables!
@@ -20,6 +20,6 @@ day = 23
 print("Today is", month, day, ",", year, "and I am finally learning Python!")
 
 # Embedding variables within strings
-# Notice the f before the first double quote - this is what allows embedding
-# of variables!
+# Notice the f before the first double quote - this is the format activator that allows embedding
+# of {variables} in strings of text!
 print(f"Today is {month} {day}, {year} and I am finally learning Python!")
