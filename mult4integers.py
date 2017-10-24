@@ -14,4 +14,5 @@ from sys import argv
 
 script, num1, num2, num3, num4 = argv
 
+# Print the product of the 4 integers you provided:
 print(int(num1) * int(num2) * int(num3) * int(num4))
